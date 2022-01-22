@@ -1,0 +1,38 @@
+nav{
+    height: 50px;
+    background-color: rgb(94, 79, 182);
+}
+.nav{
+    display: inline-block;
+background-color: rgb(73, 69, 189);
+color: white;
+padding: 15px;
+}
+
+.left{
+    float: left;
+    width: 29%;
+    height:  ;
+    background-color: seagreen;
+    text-align: center;
+}
+.right{
+    float: left;
+    width: 70%;
+    height: 500px;
+    background-color: royalblue;
+}
+.top{
+display: inline-block;
+height:30%;
+width:auto;
+}
+img{
+  object-fit: cover;
+  width: 200px;
+  height: 300px;
+}
+.bottom{
+   
+    background-color: seashell;
+}
